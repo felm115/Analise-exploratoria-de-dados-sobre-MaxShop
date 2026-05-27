@@ -9,7 +9,7 @@
 
 - Python (Pandas, Os,  matplotlib e pipeline para automatizar o tratamento dos dados) e Excel 
 
-## Resultados e recomendações - Conclusões 
+## Resultados e recomendações
 
 - De acordo com os dados,  as vendas cresceram durante os 3 anos o que significa que é possível e viável abrir novas lojas em outros estados 
 - Verificar o que está acontecendo com Rs, Pe, Pa, Am, Ro e Ce pois as vendas nesses estados estão baixas comparadas com os outros estados
