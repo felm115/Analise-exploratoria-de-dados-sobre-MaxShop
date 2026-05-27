@@ -5,6 +5,30 @@
 - Usei um pipeline de Python com Pandas para remover dados em branco, dados duplicados, padronizar letras maiúscula e minúscula desorganizadas, remover numeros decimais depois da virgula de um arquivo Excel. 
 - Depois disso, fiz um resumo estatístico com os dados tratados e por último criei 3 gráficos para visualizar os dados mais importantes
 
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/1.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/2.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/3.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/4.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/5.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/6.png)
+
+
+  ![Dashboard](https://github.com/felm115/Analise-exploratoria-de-dados-sobre-MaxShop/blob/main/Fotos/7.png)
+
+
+  
+
 ## Habilidades 
 
 - Python (Pandas, Os,  matplotlib e pipeline para automatizar o tratamento dos dados) e Excel 
